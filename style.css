@@ -450,6 +450,9 @@ nav .caret {
     margin: 0 0 5px 5px;
 }
 
+.puce {
+    list-style: none;
+}
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
